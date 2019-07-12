@@ -13,7 +13,7 @@
 			"kind": "main",
 			"tag": "com-sap-sample-gauge",
 			"url": "https://nsdevaraj.github.io/SACGauge/component.js",
-			"integrity": "sha384-o08fe4GqnEuAyzhWHvUS5S26H6XSdMsmK1Wt/9Pm7HUl1Sv9nHC4LngdXo8WMzzQ"
+			"integrity": "sha384-c2hWFYV7EjhLe+y7yspm0dYb19W55qRPBA1zfiw10AWxUAY9zERbkR/sAhlVNFgI"
 		},
 		{
 			"kind": "styling",
